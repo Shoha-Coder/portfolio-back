@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "category": "Nextjs",
+      "ProjectImage": "/Portfolio.png",
+      "description": "Explore my sleek portfolio powered by Next.js and styled with module.scss. Lightning-fast performance and modular styling combine for a seamless, visually appealing experience. Dive into my projects and journey in web development.",
+      "AltText": "portfolio",
+      "link": "https://github.com/Shoha-Coder/portfolio",
+      "name": "portfolio",
+      "categoryid": 1
+    },
+    {
+      "id": 2,
+      "category": "Nextjs",
+      "ProjectImage": "/Fiverr.png",
+      "description": "Explore my sleek portfolio powered by Next.js and styled with module.scss. Lightning-fast performance and modular styling combine for a seamless, visually appealing experience. Dive into my projects and journey in web development.",
+      "AltText": "portfolio",
+      "link": "https://github.com/Shoha-Coder/portfolio",
+      "name": "portfolio",
+      "categoryid": 2
+    }
+  ]
+}
