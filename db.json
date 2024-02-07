@@ -5,9 +5,9 @@
       "category": "Nextjs",
       "ProjectImage": "/Portfolio.png",
       "description": "Explore my sleek portfolio powered by Next.js and styled with module.scss. Lightning-fast performance and modular styling combine for a seamless, visually appealing experience. Dive into my projects and journey in web development.",
-      "AltText": "portfolio",
+      "AltText": "Portfolio",
       "link": "https://github.com/Shoha-Coder/portfolio",
-      "name": "portfolio",
+      "name": "Portfolio",
       "categoryid": 1
     },
     {
@@ -15,9 +15,29 @@
       "category": "Nextjs",
       "ProjectImage": "/Fiverr.png",
       "description": "Explore my sleek portfolio powered by Next.js and styled with module.scss. Lightning-fast performance and modular styling combine for a seamless, visually appealing experience. Dive into my projects and journey in web development.",
-      "AltText": "portfolio",
-      "link": "https://github.com/Shoha-Coder/portfolio",
-      "name": "portfolio",
+      "AltText": "Fiverr",
+      "link": "https://github.com/Shoha-Coder/fiverr",
+      "name": "Fiverr",
+      "categoryid": 2
+    },
+    {
+      "id": 3,
+      "category": "React",
+      "ProjectImage": "/Maxway.png",
+      "description": "Welcome to Maxway – Where Boundless Possibilities Await! Hey there, I'm Shohruhxon, and I'm thrilled to have you join me on this exciting adventure at Maxway. This isn't just a website; it's a space crafted for curious minds and tech enthusiasts like you",
+      "AltText": "Max Way",
+      "link": "https://github.com/Shoha-Coder/maxway-Desktop",
+      "name": "Max Way",
+      "categoryid": 1
+    },
+    {
+      "id": 4,
+      "category": "React",
+      "ProjectImage": "/Moodystore.png",
+      "description": "Step into the world of Moody Store, where exquisite furniture meets cutting-edge technology. Built with ReactJS, our online showroom offers a seamless browsing experience, allowing you to effortlessly explore our curated collection of stylish and functional pieces. From chic sofas to elegant dining sets, discover the perfect furnishings to enhance your home, all with the convenience of modern web technology.",
+      "AltText": "Moody  Store",
+      "link": "https://github.com/Shoha-Coder/moody-store",
+      "name": "Moody Store",
       "categoryid": 2
     }
   ]
