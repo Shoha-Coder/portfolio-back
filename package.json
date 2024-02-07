@@ -1,16 +1,13 @@
 {
-  "name": "maxway-back",
+  "name": "portfolio-back",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "json-server --watch db.json --port 3001"
   },
   "author": "Shoha_Coder",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Shoha-Coder/portfolio-back"
-  },
+  "repository": "https://shoha-coder/potfolio-back",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.4"
