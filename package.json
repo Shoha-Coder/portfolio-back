@@ -1,15 +1,12 @@
 {
   "name": "portfolio-back",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "json-server --watch db.json --port 3001"
+    "dev": "node index.js"
   },
-  "author": "Shoha_Coder",
-  "repository": "https://shoha-coder/potfolio-back",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "json-server": "^0.17.4"
+    "json-server": "0.17.4"
   }
 }
