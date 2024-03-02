@@ -36,11 +36,11 @@
     {
       "id": 4,
       "category": "Nextjs",
-      "ProjectImage": "/Wallmart.png",
+      "ProjectImage": "/Walmart.png",
       "description": "Explore my sleek ecommerce website powered by Next js and Typescript.",
-      "AltText": "Wallmart",
+      "AltText": "Walmart",
       "link": "https://github.com/Shoha-Coder/walmart-clone",
-      "name": "Moody Store",
+      "name": "Walmart",
       "categoryid": 2,
       "live": "https://walmart.shoha-coder.uz"
     },
@@ -57,7 +57,7 @@
     },
     {
       "id": 6,
-      "category": "Nuxtjs",
+      "category": "Vite",
       "ProjectImage": "/Jira.png",
       "description": "Jira Software is a state-of-the-art web application built with Nuxt 3, enhanced by the intuitive Nuxt UI, powered by the backend flexibility of Appwrite, and meticulously typed with TypeScript. This project aims to deliver a seamless, high-performance user experience while ensuring robust backend services and a maintainable codebase.",
       "AltText": "Jira Software",
@@ -68,13 +68,13 @@
     },
     {
       "id": 7,
-      "category": "Vuejs",
-      "ProjectImage": "/Jira.png",
+      "category": "Vite",
+      "ProjectImage": "/Movies.png",
       "description": "Movies is a state-of-the-art web application built with Vue 3, enhanced by the intuitive Bootstrap and VueX",
       "AltText": "Movies",
       "link": "https://github.com/Shoha-Coder/movies",
       "name": "Movies",
-      "categoryid": 1,
+      "categoryid": 2,
       "live": "https://movies.shoha-coder.uz"
     }
   ]
