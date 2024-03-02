@@ -65,6 +65,17 @@
       "name": "Jira Software",
       "categoryid": 1,
       "live": "https://jira.shoha-coder.uz"
+    },
+    {
+      "id": 7,
+      "category": "Vuejs",
+      "ProjectImage": "https://links.shoha-coder.uz/portfolio/images/Jira.png",
+      "description": "Movies is a state-of-the-art web application built with Vue 3, enhanced by the intuitive Bootstrap and VueX",
+      "AltText": "Movies",
+      "link": "https://github.com/Shoha-Coder/movies",
+      "name": "Movies",
+      "categoryid": 1,
+      "live": "https://movies.shoha-coder.uz"
     }
   ]
 }
