@@ -76,6 +76,17 @@
       "name": "Movies",
       "categoryid": 2,
       "live": "https://movies.shoha-coder.uz"
+    },
+    {
+      "id": 7,
+      "category": "Vite",
+      "ProjectImage": "/Apple.png",
+      "description": "Apple: Experience innovation with Vite, ReactJS, and Three.js. Explore sleek design and immersive 3D visuals. Join us in the future of browsing.",
+      "AltText": "Apple",
+      "link": "https://github.com/Shoha-Coder/apple",
+      "name": "Apple",
+      "categoryid": 3,
+      "live": "https://apple.shoha-coder.uz"
     }
   ]
 }
