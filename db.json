@@ -3,7 +3,7 @@
     {
       "id": 1,
       "category": "Nextjs",
-      "ProjectImage": "/Fiverr.png",
+      "ProjectImage": "https://links.shoha-coder.uz/portfolio/images/Fiverr.png",
       "description": "Fiverr My first freelance project.",
       "AltText": "Fiverr",
       "link": "https://github.com/Shoha-Coder/fiverr",
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "category": "React",
-      "ProjectImage": "/Maxway.png",
+      "ProjectImage": "https://links.shoha-coder.uz/portfolio/images/Maxway.png",
       "description": "Welcome to Maxway – Where Boundless Possibilities Await! Hey there, I'm Shohruhxon, and I'm thrilled to have you join me on this exciting adventure at Maxway. This isn't just a website; it's a space crafted for curious minds and tech enthusiasts like you",
       "AltText": "Max Way",
       "link": "https://github.com/Shoha-Coder/maxway-Desktop",
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "category": "React",
-      "ProjectImage": "/Moodystore.png",
+      "ProjectImage": "https://links.shoha-coder.uz/portfolio/images/Moodystore.png",
       "description": "Step into the world of Moody Store, where exquisite furniture meets cutting-edge technology. Built with ReactJS, our online showroom offers a seamless browsing experience, allowing you to effortlessly explore our curated collection of stylish and functional pieces. From chic sofas to elegant dining sets, discover the perfect furnishings to enhance your home, all with the convenience of modern web technology.",
       "AltText": "Moody  Store",
       "link": "https://github.com/Shoha-Coder/moody-store",
@@ -36,7 +36,7 @@
     {
       "id": 4,
       "category": "Nextjs",
-      "ProjectImage": "/Walmart.png",
+      "ProjectImage": "https://links.shoha-coder.uz/portfolio/images/Wallmart.png",
       "description": "Explore my sleek ecommerce website powered by Next js and Typescript.",
       "AltText": "Walmart",
       "link": "https://github.com/Shoha-Coder/walmart-clone",
@@ -47,7 +47,7 @@
     {
       "id": 5,
       "category": "Nextjs",
-      "ProjectImage": "/Portfolio.png",
+      "ProjectImage": "https://links.shoha-coder.uz/portfolio/images/Portfolio.png",
       "description": "Explore my sleek portfolio powered by Next.js and styled with module.scss. Lightning-fast performance and modular styling combine for a seamless, visually appealing experience. Dive into my projects and journey in web development.",
       "AltText": "Portfolio",
       "link": "https://github.com/Shoha-Coder/portfolio",
@@ -58,7 +58,7 @@
     {
       "id": 6,
       "category": "Vite",
-      "ProjectImage": "/Jira.png",
+      "ProjectImage": "https://links.shoha-coder.uz/portfolio/images/Jira.png",
       "description": "Jira Software is a state-of-the-art web application built with Nuxt 3, enhanced by the intuitive Nuxt UI, powered by the backend flexibility of Appwrite, and meticulously typed with TypeScript. This project aims to deliver a seamless, high-performance user experience while ensuring robust backend services and a maintainable codebase.",
       "AltText": "Jira Software",
       "link": "https://github.com/Shoha-Coder/jira",
@@ -69,7 +69,7 @@
     {
       "id": 7,
       "category": "Vite",
-      "ProjectImage": "/Movies.png",
+      "ProjectImage": "https://links.shoha-coder.uz/portfolio/images/Movies.png",
       "description": "Movies is a state-of-the-art web application built with Vue 3, enhanced by the intuitive Bootstrap and VueX",
       "AltText": "Movies",
       "link": "https://github.com/Shoha-Coder/movies",
@@ -80,7 +80,7 @@
     {
       "id": 7,
       "category": "Vite",
-      "ProjectImage": "/Apple.png",
+      "ProjectImage": "https://links.shoha-coder.uz/portfolio/images/Apple.png",
       "description": "Apple: Experience innovation with Vite, ReactJS, and Three.js. Explore sleek design and immersive 3D visuals. Join us in the future of browsing.",
       "AltText": "Apple",
       "link": "https://github.com/Shoha-Coder/apple",
