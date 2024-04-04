@@ -87,6 +87,17 @@
       "name": "Apple",
       "categoryid": 3,
       "live": "https://apple.shoha-coder.uz"
+    },
+    {
+      "id": 8,
+      "category": "Vite",
+      "ProjectImage": "https://links.shoha-coder.uz/portfolio/images/Gemini.png",
+      "description": "Gemini: Experience innovation with Vite and ReactJS. Explore sleek design.",
+      "AltText": "Gemini",
+      "link": "https://github.com/Shoha-Coder/gemini",
+      "name": "Gemini",
+      "categoryid": 4,
+      "live": "https://gemini.shoha-coder.uz"
     }
   ]
 }
