@@ -98,6 +98,17 @@
       "name": "Gemini",
       "categoryid": 4,
       "live": "https://gemini.shoha-coder.uz"
+    },
+    {
+      "id": 10,
+      "category": "Nextjs",
+      "ProjectImage": "https://links.shoha-coder.uz/portfolio/images/Wizard-portfolio.png",
+      "description": "Introducing Wizard Portfolio: A magical fusion of JavaScript, Three.js, and Next.js. Immerse visitors in captivating 3D visuals, seamless interactions, and intuitive navigation. Elevate your online presence with a portfolio that's truly enchanting.",
+      "AltText": "Wizard Portfolio",
+      "link": "https://github.com/Shoha-Coder/wizard-portfolio",
+      "name": "Wizard Portfolio",
+      "categoryid": 4,
+      "live": "https://wizard-portfolio.shoha-coder.uz"
     }
   ]
 }
